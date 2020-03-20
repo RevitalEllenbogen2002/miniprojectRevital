@@ -21,7 +21,7 @@ FIELD_NAMES = [FieldNamesEnum.FIRST_NAME, FieldNamesEnum.LAST_NAME, FieldNamesEn
                FieldNamesEnum.USER, FieldNamesEnum.PASSWORD, FieldNamesEnum.GENDER]
 
 
-CSV_FILE_PATH = r"/Auto/users.csv"
+CSV_FILE_PATH = "users.csv"
 
 FONT = ("Segoe UI", 14)
 
